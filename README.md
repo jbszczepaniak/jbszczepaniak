@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+`DynamoDB with Go` series is 👉[is here](https://jbszczepaniak.github.io/gott/)👈
+
+`Go on the toilet` series is 👉[is here](https://dev.to/jbszczepaniak/dynamodb-with-go-1-setup-1nnm)👈
+
 <!--
 **jbszczepaniak/jbszczepaniak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
